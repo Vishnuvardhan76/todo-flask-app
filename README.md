@@ -164,3 +164,4 @@ The application uses the standard `logging` module (`app.py`) to emit informatio
 - `schema.sql` — DB schema
 - `templates/tasks.html`, `templates/add_task.html` — UI
 - `tests/test_task.py` — example API tests
+CI/CD Pipeline implemented using GitHub Actions.
